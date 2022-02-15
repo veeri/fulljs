@@ -1,0 +1,22 @@
+{
+  "name": "fulljs",
+  "version": "1.0.0",
+  "description": "react project with server side rendering ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veeri/fulljs.git"
+  },
+  "author": "veeresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veeri/fulljs/issues"
+  },
+  "homepage": "https://github.com/veeri/fulljs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
